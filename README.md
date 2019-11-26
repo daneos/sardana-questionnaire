@@ -115,7 +115,6 @@ Macros
      - what do you use for that
    - do you implement the possibility of showing its progress
    - do you implement the execution of simultaneous actions
-* Do you use the sequencer
 * Do you execute your macros in CL, GUIs or both
 * Do you use the general hooks
 
