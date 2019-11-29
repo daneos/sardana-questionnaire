@@ -19,10 +19,13 @@ Spock
 * Do you use multiple Spock profiles? If so, what is the use case?
 * Do you use Spock's built-in help (<macro>?)?
 * Do you use tab completion?
+* Which Spock syntax features do you use?
+* Are you interested in using Python syntax to run macros?
 * Do you configure experiment using macros or expconf widget?
 * Do you use showscan for viewing scans/liveplotting?
 * Do you use macrodata available in Spock?
 * Do you edit macros using Spock features (edmac, etc...)?
+* Are you interested in editing controllers with edmac?
 * Do you use view options?
 * Do you use Spock also as Python or Tango console?
 * Are you interested in integrating Spock console into other applications?
