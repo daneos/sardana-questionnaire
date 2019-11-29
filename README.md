@@ -12,7 +12,6 @@ General questions
 	- Other GUI application
 	- Other
 
-
 Spock
 -----
 
@@ -21,8 +20,6 @@ Spock
 * Do you use tab completion?
 * Which Spock syntax features do you use?
 * Are you interested in using Python syntax to run macros?
-* Do you configure experiment using macros or expconf widget?
-* Do you use showscan for viewing scans/liveplotting?
 * Do you use macrodata available in Spock?
 * Do you edit macros using Spock features (edmac, etc...)?
 * Are you interested in editing controllers with edmac?
@@ -60,7 +57,6 @@ Experiment configuration
 * Do you use Expconf widget?
 * Are you happy about the configuration changes popup?
 * Do you use advanced measurement group configuration?
-* Do you use liveplotting provided by expconf?
 * Do you use snapshot groups?
 * How do you configure snapshot groups?
 * Do you configure scan storage with expconf?
