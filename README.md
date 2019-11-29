@@ -81,6 +81,7 @@ ShowScan
 
 * Do you use ShowScan to view acquired data?
 * Do you use ShowScan online for liveplotting?
+* How do you launch ShowScan?
 * How do you configure plotting?
 
 Pool*TV widgets
