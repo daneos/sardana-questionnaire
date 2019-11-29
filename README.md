@@ -31,34 +31,34 @@ MacroExecutor
 -------------
 
 * Do you use MacroExecutor?
-* Do you use it as standalone application?
-* Do you use favourites?
-* Do you use history?
-* Do you use duplication of repeat parameters?
-* Do you use pause function?
-* Do you edit commands manually in the yellow Spock line?
-* Are you interested in using custom widgets for configuring macro execution?
+  - Do you use it as standalone application?
+  - Do you use favourites?
+  - Do you use history?
+  - Do you use duplication of repeat parameters?
+  - Do you use pause function?
+  - Do you edit commands manually in the yellow Spock line?
+  - Are you interested in using custom widgets for configuring macro execution?
 
 Sequencer
 ---------
 
 * Do you use Sequencer?
-* Do you use it as standalone application?
-* Do you save/load XML sequences?
-* Do you load text sequences?
-* Do you use pause/resume?
-* Do you use stop at given macro feature?
-* Are you interested in running a sequence starting from given macro instead of the beginning?
+  - Do you use it as standalone application?
+  - Do you save/load XML sequences?
+  - Do you load text sequences?
+  - Do you use pause/resume?
+  - Do you use stop at given macro feature?
+  - Are you interested in running a sequence starting from given macro instead of the beginning?
 
 Experiment configuration
 ------------------------
 
 * What do you use to configure experiment?
 * Do you use Expconf widget?
-* Are you happy about the configuration changes popup?
+  - Are you happy about the configuration changes popup?
 * Do you use advanced measurement group configuration?
 * Do you use snapshot groups?
-* How do you configure snapshot groups?
+  - How do you configure snapshot groups?
 * Do you configure scan storage with expconf?
 * Do you use newfile macro to work with scan storage?
 * Would you be interested in experiment configuration macros?
@@ -72,7 +72,7 @@ SardanaEditor
 -------------
 
 * Do you edit macros or controllers on-line?
-* Do you use SardanaEditor?
+  - Do you use SardanaEditor?
 * How do you manage custom macros and controllers?
 
 ShowScan
@@ -80,15 +80,16 @@ ShowScan
 
 * Do you use ShowScan to view acquired data?
 * Do you use ShowScan online for liveplotting?
-* How do you launch ShowScan?
-* How do you configure plotting?
+* *Selecting yes in any of above two should bring the questions below:*
+  - How do you launch ShowScan?
+  - How do you configure plotting?
 
 `Pool*TV` widgets
 ---------------
 
 * Do you use any of `Pool*TV` widgets/GUI that uses them?
-* Do you use compact view?
-* Are all symbols and labels clear?
+  - Do you use compact view?
+  - Are all symbols and labels clear?
 
 Future features
 ---------------
