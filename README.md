@@ -50,6 +50,8 @@ Sequencer
 * Do you save/load XML sequences?
 * Do you load text sequences?
 * Do you use pause/resume?
+* Do you use stop at given macro feature?
+* Are you interested in running a sequence starting from given macro instead of the beginning?
 
 Experiment configuration
 ------------------------
