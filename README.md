@@ -11,7 +11,7 @@ General questions
 	- TaurusGUI
 	- Other GUI application
 	- Other
-* What other interfaces do you use?
+
 
 Spock
 -----
@@ -87,6 +87,11 @@ Future features
 * Is using Sardana user interface straightforward and convenient?
 * What features are missing from the existing components?
 * What other user interface components could be useful?
+
+Other
+-----
+
+* What other interfaces not mentioned here do you use?
 
 Macros
 ======
