@@ -16,7 +16,7 @@ Spock
 -----
 
 * Do you use multiple Spock profiles? If so, what is the use case?
-* Do you use Spock's built-in help (<macro>?)?
+* Do you use Spock's built-in help (`<macro>?`)?
 * Do you use tab completion?
 * Which Spock syntax features do you use?
 * Are you interested in using Python syntax to run macros?
@@ -83,10 +83,10 @@ ShowScan
 * How do you launch ShowScan?
 * How do you configure plotting?
 
-Pool*TV widgets
+`Pool*TV` widgets
 ---------------
 
-* Do you use any of Pool*TV widgets/GUI that uses them?
+* Do you use any of `Pool*TV` widgets/GUI that uses them?
 * Do you use compact view?
 * Are all symbols and labels clear?
 
