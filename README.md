@@ -58,10 +58,13 @@ Experiment configuration
 
 * What do you use to configure experiment?
 * Do you use Expconf widget?
+* Are you happy about the configuration changes popup?
 * Do you use advanced measurement group configuration?
 * Do you use liveplotting provided by expconf?
 * Do you use snapshot groups?
+* How do you configure snapshot groups?
 * Do you configure scan storage with expconf?
+* Do you use newfile macro to work with scan storage?
 * Would you be interested in experiment configuration macros?
 
 MacroButton
