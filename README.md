@@ -36,8 +36,11 @@ MacroExecutor
 * Do you use MacroExecutor?
 * Do you use it as standalone application?
 * Do you use favourites?
+* Do you use history?
+* Do you use duplication of repeat parameters?
 * Do you use pause function?
 * Do you edit commands manually in the yellow Spock line?
+* Are you interested in using custom widgets for configuring macro execution?
 
 Sequencer
 ---------
